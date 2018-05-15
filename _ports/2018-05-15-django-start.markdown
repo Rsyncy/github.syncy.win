@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      "Hello Django"
+subtitle:   " \"Hello First,Hello Django\""
+date:       2018-05-15 18:30:00
+author:     "R47"
+header-img: "img/avatar.jpg"
+catalog: true
+tags:
+    - Django
+---
+
+> “Django 第一步. ”
+
 ### 1、启动django项目(默认只允许本地访问，端口8000)：
 `# python manage.py runserver`
 ### 2、修改访问端口
